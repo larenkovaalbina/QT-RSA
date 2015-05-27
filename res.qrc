@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/new/prefix1">
-        <file>pict/Accept_37154.png</file>
-        <file>pict/stop_exit_removerelete_sto_11059.png</file>
-        <file>pict/w128h1281352732083lock.png</file>
-        <file>pict/закр.png</file>
-        <file>pict/откр.png</file>
-    </qresource>
-</RCC>
